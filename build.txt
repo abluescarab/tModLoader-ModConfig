@@ -1,0 +1,15 @@
+﻿displayName=Mod Config Example
+author=abluescarab
+version=1.0.0
+homepage=https://github.com/abluescarab/tModLoader-ModConfig
+dllReferences=
+modReferences=
+weakReferences=
+buildIgnore=*.csproj, *.user, obj\*, bin\*, .vs\*
+languageVersion=6
+side=Both
+noCompile=false
+hideCode=false
+hideResources=false
+includeSource=true
+includePDB=true
